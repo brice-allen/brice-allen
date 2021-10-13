@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://brice-allen-streaks.herokuapp.com/?user=brice-allen"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://brice-allen-streaks.herokuapp.com/?user=brice-allen&theme=radical"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
