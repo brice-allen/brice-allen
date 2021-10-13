@@ -12,5 +12,4 @@
 </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![Brice's github activity graph](https://brice-allen-readme.herokuapp.com/graph?username=brice-allen&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="brice-allen's Activity Graph" src="https://brice-allen-readme.herokuapp.com/graph?username=brice-allen&theme=default&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
