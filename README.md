@@ -3,9 +3,12 @@
 </h2>
 
 ## 🔥 Streak stats
-<p align="center">
+
+  
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
 [![GitHub Streak](https://brice-allen-streaks.herokuapp.com/?user=brice-allen)](https://git.io/streak-stats)
+
 </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
