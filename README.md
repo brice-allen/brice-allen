@@ -5,7 +5,7 @@
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-[![GitHub Streak](https://brice-allen-streaks.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://brice-alen-streaks.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
