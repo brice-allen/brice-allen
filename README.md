@@ -6,7 +6,7 @@ Hello there! Welcome to my GitHub profile page. My name is Brice Allen, and I'm 
 
 ## 🔧 Technologies & Tools
 
-- JavaScript, TypeScript, Python, Java, C++, Go
+- C++, Rust, Go, Python, Julia, MASM,
 - Node.js, Express, Django, Spring, Flask
 - React, Angular, Vue.js
 - PostgreSQL, MySQL, MongoDB, Redis
@@ -27,7 +27,7 @@ Hello there! Welcome to my GitHub profile page. My name is Brice Allen, and I'm 
 
 ## 📖 Some of my favorite repositories
 
-- [Spotify Reccomendation System](https://github.com/brice-allen/summer)
+- [Spotify Recommendation System](https://github.com/brice-allen/summer)
 - [State Space Search Puzzle](https://github.com/brice-allen/npuz)
 - [Medication Reminder App](https://github.com/brice-allen/daily-doses)
 
