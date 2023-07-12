@@ -6,18 +6,34 @@ Hello there! Welcome to my GitHub profile page. My name is Brice Allen, and I'm 
 
 ## 🔧 Technologies & Tools
 
-- C++, Rust, Go, Python, Julia, MASM,
+- C++, C, C\#, Python, Julia, MASM,
 - Node.js, Express, Django, Spring, Flask
 - React, Angular, Vue.js
 - PostgreSQL, MySQL, MongoDB, Redis
 - Docker, Kubernetes, AWS, GCP, Azure
-- Git, CI/CD, TDD, Agile methodologies
+- Git, CI/CD, MLOps, TDD, Agile methodologies
 
 ## 🌱 I'm currently learning
 
 - Rust and WebAssembly
-- Advanced Machine Learning techniques
-- Blockchain development
+- Golang
+- Advanced Machine Learning techniques:
+  - Deep Learning
+  - Generative Adversarial Networks 
+  - Attention Mechanisms and Transformers
+
+  
+## 🔜 Future learning goals
+
+- Capsule Networks (CapsNets)
+- Graph Neural Networks (GNNs)
+- Attention Mechanisms and Transformers)(especially Natural Language Processing)
+- Computer vision
+- Human-computer interaction design
+- Meta-Learning
+- Simultaneous Localization and Mapping
+- 3D Scanning and Photogrammetry
+- Ethics and law surrounding computer science
 
 ## 📫 How to reach me
 
